@@ -30,7 +30,7 @@ We'll discuss how to fill out each field step by step.
 
 **Learn more about how to complete your LinkedIn Intro Block:**
 
-[How do you complete your LinkedIn header?](how-do-you-complete-your-linkedin-header.md)
+[How do you complete your LinkedIn header?](https://github.com/manzitresor/professional-linkedin/blob/dev/how-do-you-complete-your-linkedin-header.md)
 
 **Apply what you've learned**
 
