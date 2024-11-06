@@ -40,7 +40,9 @@ We'll discuss how to fill out each field step by step.
 
 You will now add different sections to your profile by selecting them from the Add profile section menu, which displays a list of core, recommended and additional sections.
 
-![images/L20.png](images/L20.png)
+![L20](https://github.com/user-attachments/assets/728d9e0b-6e8a-4cb5-8d59-7f1fab1bb991)
+
+
 
 According to most students, the "About Me" is the hardest (and most intimidating) section of the LinkedIn profile. The good news, however, is that you've already written most of it, and now you can simply copy/paste it into LinkedIn.
 
